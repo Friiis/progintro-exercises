@@ -6,5 +6,6 @@ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-start
 - **[Repository]** https://github.com/Friiis/progintro-exercises
 
  ## Formatting Examples:
-1. *Italic* text.
+1. *Italic* Text.
 2. **Bold** Text.
+3. ***Bold & Italic*** Text.
